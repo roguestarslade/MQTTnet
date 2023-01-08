@@ -1,3 +1,8 @@
+### RogueStar InterGalactic : VR Version
+
+* on roguestar branch
+* stripped of files not needed for Meta Quest development
+
 <p align="center">
 <img src="https://github.com/dotnet/MQTTnet/blob/master/Images/icon_det_256.png?raw=true" width="196">
 <br/>
