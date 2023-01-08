@@ -1,6 +1,6 @@
 ### RogueStar InterGalactic : VR Version
 
-* on roguestar branch
+* [on roguestar branch](https://github.com/roguestarslade/MQTTnet/tree/roguestar)
 * stripped of files not needed for Meta Quest development
 
 <p align="center">
